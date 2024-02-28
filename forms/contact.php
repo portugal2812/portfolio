@@ -32,7 +32,7 @@ $contact->subject = $_POST['subject'] ?? '';
 $contact->smtp = array(
   'host' => 'smtp.gmail.com',
   'username' => 'miguelopesmarcal@gmail.com',
-  'password' => 'Cartaxo2812!',
+  'password' => 'Cartaxo2812.',
   'port' => '587'
 );
 
